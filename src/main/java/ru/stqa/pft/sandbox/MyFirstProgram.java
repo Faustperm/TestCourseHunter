@@ -6,6 +6,7 @@ public class MyFirstProgram {
     hello("world");
     hello("user");
     hello("Ilya");
+    hello("Eugene");
 
     double len = 5;
     System.out.println("Площадь квадрата " + len + " = " + area(len));
